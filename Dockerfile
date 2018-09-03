@@ -8,4 +8,4 @@ VOLUME [ "/opt/app" ]
 
 WORKDIR /opt/app
 
-EXPOSE 80
+EXPOSE 8080
