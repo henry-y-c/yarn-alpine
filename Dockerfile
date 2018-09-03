@@ -7,3 +7,5 @@ RUN apk update && \
 VOLUME [ "/opt/app" ]
 
 WORKDIR /opt/app
+
+EXPOSE 80
